@@ -10,6 +10,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 - **SwarmChemistry** - Hiroki Sayama's artificial chemistry model. [[code]](https://github.com/mitsuyoshi-yamazaki/SwarmChemistry)
 - **project-origin** - Simulator for investigating Noogenesis. [[code]](https://github.com/kourgeorge/project-origin)
 - **Grovolve** - Simulator for evolution by natural selection for plants. [[code]](https://github.com/rrwick/Grovolve)
+- **Evochora** - Distributed lab investigating the physics of Open-Ended Evolution [[code]](https://github.com/evochora/evochora)
 
 ### Journals
 - **Artificial Life** [[journal]](https://www.mitpressjournals.org/loi/artl)
@@ -30,6 +31,7 @@ A curated list of awesome [Artificial Life](https://en.wikipedia.org/wiki/Artifi
 ### Articles
 - **The past, present, and future of artificial Life** (2014), Aguilar, W., Santamaría-Bonfil, G., Froese, T., and Gershenson, C. [[article]](https://www.frontiersin.org/articles/10.3389/frobt.2014.00008/full)
 - **An Introduction to Aritifical Life for People who Like AI** (2019), Lana Sinapayen [[article]](https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/)
+- **Whitepaper proposing a physical architecture to investigate major transitions and open-endedness** (2025), The Evochora Project [[article]](https://github.com/evochora/evochora/blob/main/docs/SCIENTIFIC_OVERVIEW.md)
 
 
 ### Books
